@@ -1,0 +1,15 @@
+{
+  "name": "2_hardhatbasicproject",
+  "version": "1.0.0",
+  "description": "My hardhat Proejct",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek {andey",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.5"
+  }
+}
